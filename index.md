@@ -68,10 +68,16 @@ I20210914-21:22:19.343(-10)? Monti APM: completed instrumenting the app
 These are the designs showcasing each page we have on COKOA.
 
 ### Landing Page:
+<img src="images/landing.png">
+A landing page is the first page for users to interact with our website. It has buttons for log-in and sign-up.<br />
 
 ### Register Page:
+<img src="images/signup.png">
+A sign-up page allows users to create a new account using their email address and password. <br />
 
 ### Sign-In Page:
+<img src="images/signin.png">
+A sign-in page allows users to log in with their existing account. <br />
 
 ### Home Page:
 <img src="images/home.png">
