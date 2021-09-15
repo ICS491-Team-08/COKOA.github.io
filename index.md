@@ -1,4 +1,4 @@
-# COKOA (Team-08)
+# COKOA
 
 ## Table of Contents
 
