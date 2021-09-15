@@ -74,7 +74,7 @@ These are the designs showcasing each page we have on COKOA.
 ### Sign-In Page:
 
 ### Home Page:
-<img src="images/home">
+<img src="images/home.png">
 This page is the main page that shows the overall status of the user after registration or login.
 It shows the user's vaccination status and the results of the COVID-19 test.<br />
 Users can also upload their vaccine cards or the results of the COVID-19 test within two weeks.<br />
