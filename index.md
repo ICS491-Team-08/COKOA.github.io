@@ -7,7 +7,8 @@
 * [Pages](#pages)
 * [Milestones](#milestones)
 * [Meet the Team](#meet-the-team)
-
+<br />
+<br />
 ## COKOA:
 
 Find the Github Repo here: [Github Repo](https://github.com/ICS491-Team-08/COKOA) <br />
@@ -38,7 +39,8 @@ $ meteor npm run start
 The first time running the application will add default users: 
 
 
-
+<br />
+<br />
 ## PAGES:
 These are the designs showcasing each page we have on COKOA.
 
@@ -54,7 +56,8 @@ These are the designs showcasing each page we have on COKOA.
 
 ### Sign-out Page:
 
-
+<br />
+<br />
 ## MILESTONES:
 
 ### Milestone 1:
@@ -65,7 +68,8 @@ These are the designs showcasing each page we have on COKOA.
 
 ### Milestone 3:
 
-
+<br />
+<br />
 ## Meet the Team:
 
 [Yong Kim](https://yongkim93.github.io) <br />
