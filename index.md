@@ -76,6 +76,9 @@ These are the designs showcasing each page we have on COKOA.
 ### Profile Page:
 
 ### Daily Check-up Page: 
+<img src="images/daily.png">
+Daily check-up shows the current health status. 
+You can easily check your current health status with stars and see the history of health status.<br />
 
 ### Sign-out Page:
 
