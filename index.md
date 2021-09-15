@@ -8,12 +8,13 @@
 * [Milestones](#milestones)
 * [Meet the Team](#meet-the-team)
 <br />
-<br />
+
 ## COKOA:
 
 Find the Github Repo here: [Github Repo](https://github.com/ICS491-Team-08/COKOA) <br />
 
 See our deployed Website: [COKOA Website](https://cokoa.meteorapp.com/#/) <br />
+<br />
 
 ## Developer Guide: 
 
@@ -38,9 +39,31 @@ $ meteor npm run start
 ```
 The first time running the application will add default users: 
 
+```
+$ meteor npm run start
 
+> meteor-application-template-react@ start /Users/name/Desktop/GitHub/COKOA/app
+> meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
+
+[[[[[ ~/Desktop/GitHub/COKOA/app ]]]]]        
+
+=> Started proxy.                             
+=> Started MongoDB.                           
+I20210914-21:22:18.477(-10)? Creating the default user(s)
+I20210914-21:22:18.532(-10)?   Creating user admin@foo.com.
+I20210914-21:22:18.601(-10)?   Creating user john@foo.com.
+I20210914-21:22:18.675(-10)?   Creating user hany7@foo.com.
+I20210914-21:22:18.752(-10)? Creating default data.
+I20210914-21:22:18.753(-10)?   Adding: Basket (john@foo.com)
+I20210914-21:22:18.824(-10)?   Adding: Bicycle (john@foo.com)
+I20210914-21:22:18.826(-10)?   Adding: Banana (admin@foo.com)
+I20210914-21:22:19.343(-10)? Monti APM: completed instrumenting the app
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+```
 <br />
-<br />
+
 ## PAGES:
 These are the designs showcasing each page we have on COKOA.
 
@@ -57,7 +80,7 @@ These are the designs showcasing each page we have on COKOA.
 ### Sign-out Page:
 
 <br />
-<br />
+
 ## MILESTONES:
 
 ### Milestone 1:
@@ -69,7 +92,7 @@ These are the designs showcasing each page we have on COKOA.
 ### Milestone 3:
 
 <br />
-<br />
+
 ## Meet the Team:
 
 [Yong Kim](https://yongkim93.github.io) <br />
