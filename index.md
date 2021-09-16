@@ -98,9 +98,6 @@ To add or modify the information displayed in the profile, users can first go to
 <img src="images/daily.png">
 The daily check-up page shows the current health status. 
 Users can easily check their current health status with stars and see the history of health status.<br />
-
-### Sign-out Page:
-
 <br />
 
 ## MILESTONES:
