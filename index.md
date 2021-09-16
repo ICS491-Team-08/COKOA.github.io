@@ -91,9 +91,8 @@ The profile page allows users to register and enter first name, last name,  vacc
 
 ### Edit Profile Page
 <img src="images/edit.png">
-<br />
 <img src="images/complete-edit.png">
-To add or modify the information displayed in the profile, users can first go to their "My Profile" and then modify the information they entered by clicking the "Edit Profile" button at the bottom. Users can easily complete all tasks by pressing the "Submit" button after completing the information to be modified. <br />
+To add or modify the information displayed in the profile, users can first go to their "My Profile" and then edit the information they entered by clicking the "Edit Profile" button at the bottom. Users can easily complete all tasks by pressing the "Submit" button after completing the information to be modified. <br />
 
 ### Daily Check-up Page: 
 <img src="images/daily.png">
