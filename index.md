@@ -89,7 +89,7 @@ Users can also upload their vaccine cards or the results of the COVID-19 test wi
 <img src="images/profile.png">
 The profile page allows users to register and enter first name, last name,  vaccine type to view their profile. The profile page contains basic information about users' account, such as name, vaccine card image, vaccine information, healthcare or clinic site, and date of vaccination. <br />
 
-### Edit Profile Page
+### Edit Profile Page:
 <img src="images/edit.png">
 <img src="images/complete-edit.png">
 To add or modify the information displayed in the profile, users can first go to their "My Profile" and then edit the information they entered by clicking the "Edit Profile" button at the bottom. Users can easily complete all tasks by pressing the "Submit" button after completing the information to be modified. <br />
@@ -106,7 +106,8 @@ Users can easily check their current health status with stars and see the histor
 ## MILESTONES:
 
 ### Milestone 1:
-
+Here is our [Milestone-1](https://github.com/ICS491-Team-08/COKOA/projects/1). <br />
+<img src="images/m1.png">
 
 ### Milestone 2:
 
