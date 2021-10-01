@@ -96,7 +96,7 @@ The profile page allows users to register and enter first name, last name, email
 The vaccine record page allows users to enter their vaccination information such as type, lot, date, and site. To add or modify the information displayed in the vaccine record, users can first go to their "Vaccine Record" and then edit the information they entered by clicking the "Edit Vaccine Record" button at the bottom. Users can easily complete all tasks by pressing the "Submit" button after completing the information to be modified. <br />
 
 ### Daily Check-up Page: 
-<img src="images/daily.png">
+<img src="images/daily_checkup.PNG">
 The daily check-up page shows the current health status. 
 Users can easily check their current health status with stars and see the history of health status.<br />
 <br />
@@ -108,7 +108,8 @@ Here is our [Milestone-1](https://github.com/ICS491-Team-08/COKOA/projects/1). <
 <img src="images/m1.png">
 
 ### Milestone 2:
-
+Here is our [Milestone-2](https://github.com/ICS491-Team-08/COKOA/projects/2). <br />
+<img src="images/m2.PNG">
 
 ### Milestone 3:
 
