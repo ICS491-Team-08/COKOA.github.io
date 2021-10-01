@@ -86,13 +86,14 @@ It shows the user's vaccination status and the results of the COVID-19 test.<br 
 Users can also upload their vaccine cards or the results of the COVID-19 test within two weeks.<br />
 
 ### Profile Page:
-<img src="images/profile.png">
-The profile page allows users to register and enter first name, last name,  vaccine type to view their profile. The profile page contains basic information about users' account, such as name, vaccine card image, vaccine information, healthcare or clinic site, and date of vaccination. <br />
+<img src="images/profile_page.PNG">
+<img src="images/edit_profile_page.PNG">
+The profile page allows users to register and enter first name, last name, email, gender, and birthday to view their profile. The profile page contains basic information about the user. To add or modify the information displayed in the profile, users can first go to their "My Profile" and then edit the information they entered by clicking the "Edit Profile" button at the bottom. Users can easily complete all tasks by pressing the "Submit" button after completing the information to be modified.<br />
 
-### Edit Profile Page:
-<img src="images/edit.png">
-<img src="images/complete-edit.png">
-To add or modify the information displayed in the profile, users can first go to their "My Profile" and then edit the information they entered by clicking the "Edit Profile" button at the bottom. Users can easily complete all tasks by pressing the "Submit" button after completing the information to be modified. <br />
+### Vaccine Record Page:
+<img src="images/vaccine_record_page.PNG">
+<img src="images/edit_vaccine_record_page.PNG">
+The vaccine record page allows users to enter their vaccination information such as type, lot, date, and site. To add or modify the information displayed in the vaccine record, users can first go to their "Vaccine Record" and then edit the information they entered by clicking the "Edit Vaccine Record" button at the bottom. Users can easily complete all tasks by pressing the "Submit" button after completing the information to be modified. <br />
 
 ### Daily Check-up Page: 
 <img src="images/daily.png">
