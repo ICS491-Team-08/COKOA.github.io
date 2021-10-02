@@ -13,7 +13,7 @@
 
 Find the Github Repo here: [Github Repo](https://github.com/ICS491-Team-08/COKOA) <br />
 
-See our deployed Website: [COKOA Website](https://cokoa.meteorapp.com/#/) <br />
+See our deployed Website: [COKOA Website](https://galaxy.meteor.com/app/team-8-cokoa.meteorapp.com) <br />
 <br />
 
 ## Developer Guide: 
