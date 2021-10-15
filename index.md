@@ -113,6 +113,8 @@ Here is our [Milestone-2](https://github.com/ICS491-Team-08/COKOA/projects/2). <
 <img src="images/m2.PNG">
 
 ### Milestone 3:
+Here is our [Milestone-3](https://github.com/ICS491-Team-08/COKOA/projects/3). <br />
+<img src="images/m3.png">
 
 <br />
 
